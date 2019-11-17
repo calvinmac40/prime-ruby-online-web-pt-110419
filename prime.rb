@@ -8,6 +8,3 @@ else (2..i/2).none? do |n|
 end
 end
 end
-
-if i % i == 0 
-  return true
